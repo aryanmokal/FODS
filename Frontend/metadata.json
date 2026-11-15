@@ -1,0 +1,6 @@
+{
+  "name": "InstaDS",
+  "description": "A clean, modern Instagram-inspired social media frontend built with React, modular API services, and responsive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
